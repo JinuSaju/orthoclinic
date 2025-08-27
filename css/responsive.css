@@ -1,0 +1,366 @@
+/* 
+------------------------------------
+All Responsive css here
+------------------------------------
+ */
+@media (max-width: 1200px) {
+  .about-content {
+    padding-left: 0px;
+  }
+  .facilities-img {
+    padding-left: 0px;
+  }
+  .facilities-wrap {
+    padding-top: 0px;
+  }
+  .login-box {
+    padding: 15px;
+    margin: 30px 15px;
+  }
+}
+@media (max-width: 1024px) {
+  .w-50 {
+    width: 100% !important;
+  }
+}
+@media (max-width: 991px) {
+  .header-area {
+    padding: 20px 0px;
+  }
+  .header-area .stellarnav ul {
+    text-align: left;
+  }
+  .header-area .stellarnav ul ul {
+    box-shadow: none;
+  }
+  .header-area .stellarnav .full {
+    width: auto;
+    position: absolute;
+    right: 0;
+    z-index: 999;
+    top: -67px;
+    padding: 0px 0px;
+    text-align: right;
+    font-size: 30px;
+  }
+  .header-area .stellarnav .menu-toggle .menu-close {
+    display: none;
+  }
+  .header-area .active .menu-toggle .menu-close {
+    display: block;
+    font-size: 36px;
+  }
+  .header-area .active .menu-toggle .menu-open {
+    display: none;
+  }
+  .stellarnav.mobile.light ul {
+    background: #fff;
+  }
+  .stellarnav.mobile.light li a {
+    color: #000;
+    font-size: 16px;
+  }
+  .stellarnav.mobile.light > ul {
+    height: 350px;
+    overflow-y: scroll;
+  }
+  .header-area.stricky-menu .stellarnav.light ul ul {
+    background-color: #fff;
+    padding: 0px 20px;
+  }
+  .stellarnav.mobile.top {
+    top: 68px;
+  }
+  .header-area .stellarnav > ul > li > a span {
+    display: none;
+  }
+  .header-area .stellarnav > ul > li > a {
+    padding: 16px 18px;
+    font-size: 24px;
+  }
+  .header-area .stellarnav .menu-toggle span.bars {
+    margin-right: 0px;
+    top: 0px;
+  }
+  .header-area .stellarnav.light a.dd-toggle .icon-plus::after,
+  .header-area .stellarnav.light a.dd-toggle .icon-plus::before {
+    border-color: rgb(0, 0, 0);
+  }
+  .treatment-process {
+    margin-bottom: 24px;
+    margin-top: 24px;
+  }
+  .about-content {
+    padding-left: 0px;
+  }
+  .ex-content {
+    margin-bottom: 25px;
+    margin-top: 25px;
+  }
+  .services-sidebar {
+    padding-right: 0px;
+  }
+  .facilities-img {
+    padding-left: 0px;
+  }
+  .map {
+    position: relative;
+    padding-bottom: 50px;
+    height: 350px;
+  }
+  .map iframe {
+    position: relative;
+    width: 100%;
+    border-radius: 20px;
+  }
+  .appointment-wrap.contact-text {
+    margin-top: 100px;
+  }
+  .schedule ul li {
+    margin-bottom: 25px;
+  }
+  .about-facilities {
+    padding-left: 0px;
+  }
+  .facilities-lef-img {
+    display: none;
+  }
+  .facilities-img {
+    margin-top: 0px;
+  }
+  .facilities-content2 {
+    padding-left: 0px;
+  }
+  .appointment-doctor {
+    margin-top: 0px;
+  }
+  .appointment-form {
+    border-radius: 12px;
+  }
+  .appointment-doctor-img img {
+    border-radius: 12px;
+  }
+  .sidebar {
+    padding-left: 0px;
+  }
+  .blog-details-form {
+    margin-bottom: 24px;
+  }
+  .video-bg {
+    width: 100%;
+    height: 35%;
+    bottom: auto !important;
+  }
+  .videbox-wrap {
+    margin-top: 54px;
+  }
+  .video-content {
+    padding-left: 0px;
+    padding-top: 340px;
+  }
+  .client-bg {
+    display: none;
+  }
+  .work-process {
+    margin-bottom: 24px;
+  }
+  .doctor-testi .testimonial-content {
+    width: 100%;
+  }
+  .team-section .section-head {
+    padding-bottom: 20px;
+  }
+  .team-section .dentus-btn {
+    margin-bottom: 50px !important;
+  }
+}
+@media (max-width: 768px) {
+  .header-area .stellarnav {
+    overflow: visible;
+  }
+  .error-wrap h2 {
+    font-size: 64px;
+  }
+  .error-wrap h3 {
+    font-size: 36px;
+  }
+  .schedule h2 {
+    font-size: 36px;
+  }
+  .slider-content h1 {
+    font-size: 42px;
+  }
+  .appointment-form {
+    padding: 41px 20px;
+  }
+  .breadcrumb-area h2 {
+    font-size: 36px;
+  }
+  .heading {
+    font-size: 36px;
+  }
+  .client-quote-content {
+    width: 100%;
+  }
+  .testimonial-content h4 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  .caption-one {
+    bottom: 30px;
+    left: 0;
+  }
+  .caption-two {
+    top: 0;
+    right: 0;
+  }
+  .caption-two,
+  .caption-one {
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+  }
+  .home2-appointment .heading {
+    padding-top: 0px;
+  }
+  .right-content input {
+    margin-bottom: 24px;
+  }
+  .tags-list li {
+    margin-bottom: 10px;
+  }
+  .meta-post .social-link a {
+    margin-bottom: 10px;
+  }
+  .quote {
+    position: relative !important;
+    margin-right: 0px;
+    padding: 15px;
+  }
+}
+@media (max-width: 576px) {
+  .about-section {
+    padding: 70px 0px 70px;
+  }
+  .services-section {
+    padding-top: 65px;
+    padding-bottom: 45px;
+  }
+  .video-content {
+    padding-top: 260px;
+  }
+  .video-section {
+    padding-bottom: 55px;
+  }
+  .facilities-section {
+    padding-top: 70px;
+    padding-bottom: 95px;
+  }
+  .gallery-section {
+    padding: 70px 0px 45px;
+  }
+  .team-section {
+    padding-top: 70px;
+    padding-bottom: 40px;
+  }
+  .video-section2,
+  .services-details-section,
+  .faq-section,
+  .testimonial-section {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .blog-section {
+    padding: 70px 0px 45px;
+  }
+  .schedule-section {
+    padding-top: 65px;
+    padding-bottom: 40px;
+  }
+  .footer-section {
+    padding-top: 70px;
+  }
+  .copyright p {
+    margin-bottom: 15px;
+  }
+  .facilities-section2 {
+    padding-top: 70px;
+    padding-bottom: 45px;
+  }
+  .work-process-section {
+    padding-top: 70px;
+    padding-bottom: 45px;
+  }
+  .contact-section {
+    padding-top: 70px;
+    padding-bottom: 40px;
+  }
+  .contact-map-content {
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+  .bloggrid-section {
+    padding-top: 70px;
+    padding-bottom: 60px;
+  }
+  .pagination-list {
+    margin-top: 30px;
+  }
+  .work-process-section2 {
+    padding-top: 70px;
+    padding-bottom: 45px;
+  }
+  .appointment-section {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .pricing-section {
+    padding-top: 130px;
+  }
+  .registration-seciton, .login-section {
+    margin: 70px 0px;
+  }
+  .single-form {
+    margin: 30px 0px 0px;
+  }
+  .error-section {
+    padding-top: 40px;
+    padding-bottom: 70px;
+  }
+  .home2-appointment {
+    padding: 40px 20px;
+  }
+  .facilities-bottom {
+    padding-bottom: 175px;
+  }
+  .wow {
+    animation-name: none !important;
+    visibility: visible !important;
+  }
+}
+@media (max-width: 480px) {
+  .logo-brand span {
+    display: none;
+  }
+  .about-ex .about-img {
+    margin-top: -60px;
+  }
+  .contact .facilities-img2 .about-ex {
+    margin-top: -90px;
+  }
+  .slider-content .white-selector:after {
+    display: none;
+  }
+}
+@media (max-width: 375px) {
+  .contact .facilities-img .ex-content {
+    left: 0px;
+  }
+  .facilities-img .about-ex {
+    position: relative;
+    bottom: -30px;
+  }
+  .appointment-wrap.contact-text {
+    margin-top: 30px;
+  }
+}/*# sourceMappingURL=responsive.css.map */
