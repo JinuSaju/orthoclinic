@@ -47,19 +47,20 @@ This project was developed as a professional clinic website focused on user expe
 ## 📂 Project Structure
 
 ```text
-├── index.html
+orthoclinic/
 ├── css/
-│   ├── bootstrap.min.css
-│   ├── main.css
-│   ├── responsive.css
-│   └── plugins
-├── js/
-│   ├── main.js
-│   └── plugins
+│   ├── main.css          
+│   ├── responsive.css    
+│   └── plugins/          
+├── fonts/                
 ├── images/
-│   ├── doctors
-│   ├── services
-│   └── assets
+│   ├── doctors/          
+│   ├── assets/           
+│   └── treatment-banner.png
+├── js/
+│   ├── main.js           
+│   └── plugins/          
+├── index.html            
 └── README.md
 ```
 
