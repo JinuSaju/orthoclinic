@@ -98,7 +98,7 @@ The website adapts seamlessly across different screen sizes to ensure a smooth u
 * Contact & Location Section
 
 ## Project Hosted Link
-*www.
+https://orthoclinicmanglore.vercel.app/
 
 
 ## 👨‍💻 Author
