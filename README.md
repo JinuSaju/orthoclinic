@@ -116,8 +116,3 @@ Mar Baselios College of Engineering and Technology
 * JavaScript Integration
 * Third-Party API Integration
 
-## 📄 License
-
-This project was developed for educational and portfolio purposes. Feel free to use it as a reference for learning and web development projects.
-
-⭐ If you found this project useful, consider giving it a star.
