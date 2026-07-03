@@ -19,14 +19,6 @@ This project was developed as a professional clinic website focused on user expe
 * Interactive animations and transitions
 * Visiting hours display
 
-## 🩺 Services Included
-
-* Joint Replacement Surgery
-* Spine Disorder Treatment
-* Pediatric Orthopedics
-* Sports Injury Management
-* Digital X-Ray Services
-* Physiotherapy
 
 ## 🛠️ Technologies Used
 
@@ -104,21 +96,9 @@ The website adapts seamlessly across different screen sizes to ensure a smooth u
 * Visiting Hours
 * Contact & Location Section
 
-## 🔧 Installation
+## Project Hosted Link
+*www.
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/ortho-clinic-mangalore.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd ortho-clinic-mangalore
-```
-
-3. Open `index.html` in your browser.
 
 ## 👨‍💻 Author
 
